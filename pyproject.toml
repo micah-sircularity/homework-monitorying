@@ -1,0 +1,11 @@
+[project]
+name = "homework-monitorying"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "logfire>=5.3.0",
+    "pydantic-ai>=2.60.0",
+    "python-dotenv>=1.2.4",
+    "questionary>=2.1.1",
+    "requests>=2.34.2",
+]
